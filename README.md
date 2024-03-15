@@ -1,14 +1,11 @@
 # Dayz-Essentialz
 Overrides For Dayz Servers 
 
-
-
-
-
 <hr/>
 
 
-
+> [!TIP]
+><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=3320">Buy DAYZ Servers From GTXGaming</a>
 
 ##
 
