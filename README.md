@@ -5,7 +5,7 @@ Overrides For Dayz Servers
 
 
 
-</ hr>
+<hr/>
 
 
 
