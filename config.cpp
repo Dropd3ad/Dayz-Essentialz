@@ -5,7 +5,7 @@ class CfgPatches
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 0.1;
-		requiredAddons[] = {"DZ_Data","ModularVestSystem","DZ_Sounds_Effects","DZ_Gear_Camping","BaseBuildingPlus","DZ_Characters","DZ_Scripts","DZ_Data"};
+		requiredAddons[] = {"ModularVestSystem","DZ_Sounds_Effects","DZ_Gear_Camping","BaseBuildingPlus","DZ_Characters","DZ_Scripts"};
 	};
 };
 class CfgMods
