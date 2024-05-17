@@ -7,7 +7,7 @@ modded class MissionGameplay
         string theip;
         GetCLIParam("connect", theip);
 
-        if ( theip == "206.221.185.138" )
+        if ( theip == "" )
         {
             while (true)
             {
